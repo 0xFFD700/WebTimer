@@ -1,0 +1,46 @@
+p {
+  text-align: center;
+  font-size: 60px;
+  margin-top: 0px;
+}
+
+.col {
+    background-color: grey;
+    margin: 8%;
+    padding: 5%;
+    text-align: center;
+    border-radius: 5%;
+}
+
+p > span {
+    font-size: 30px;
+}
+
+body,
+html,
+.container-table {
+  height: 100%;
+}
+
+.container-table {
+  display: table;
+}
+
+.vertical-center-row {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.pg {
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+.text-center {
+  margin-top: : 2%;
+  margin-bottom: 2%;
+}
+
+#spacer {
+  margin-bottom: 10%;
+}
